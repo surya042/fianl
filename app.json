@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ticketlessentry",
+    "slug": "ticketlessentry",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ticketlessentry"
+}
